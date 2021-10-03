@@ -11,7 +11,7 @@ Making the switch from being a developer to being a designer
 
 ### Specialized in
 
-Frontend engineering, UI design, coffee drinking
+Frontend engineering, UI design
 
 ## Education
 
