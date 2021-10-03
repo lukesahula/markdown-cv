@@ -7,7 +7,7 @@ UX Designer, Frontend developer
 
 ## Currently
 
-Working as a UX designer at Sentica:
+__Working as a UX designer at Sentica:__
 
 - Gathering requirements
 - Writing user stories
