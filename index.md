@@ -3,15 +3,16 @@ layout: cv
 title: Lukáš Sahula's CV
 ---
 # Lukáš Sahula
-Frontend Developer, UX Designer
+UX Designer, Frontend developer
 
 ## Currently
 
-Making the switch from being a developer to being a designer
+Working as a UX designer at Sentica s.r.o
 
-### Specialized in
-
-Frontend engineering, UI design
+- Gathering requirements
+- Writing user stories
+- Making prototypes
+- Analyzing use cases
 
 ## Education
 
@@ -43,7 +44,7 @@ __React developer @ Self-employed__
 - UI & UX design
 
 `2021-now`
-__UI & UX designer, coowner @ Sentica s.r.o.__
+__UI & UX designer @ Sentica s.r.o.__
 
 - UX & UI design, research
 
