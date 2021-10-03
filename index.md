@@ -16,7 +16,7 @@ Frontend engineering, UI design, coffee drinking
 ## Education
 
 `2015-2018`
-__Faculty of Electrical Engineering, Czech Technical University__
+__Faculty of Electrical Engineering, Czech Technical University in Prague__
 
 
 ## Awards
