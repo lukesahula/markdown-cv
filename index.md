@@ -2,7 +2,7 @@
 layout: cv
 title: Lukáš Sahula's CV
 ---
-# Lukáš Sahula
+# Bc. Lukáš Sahula
 UX Designer, Frontend developer
 
 ## Currently
