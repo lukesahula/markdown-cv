@@ -7,12 +7,13 @@ UX Designer, Frontend developer
 
 ## Currently
 
-Working as a UX designer at Sentica s.r.o
+Working as a UX designer at Sentica:
 
 - Gathering requirements
 - Writing user stories
 - Making prototypes
 - Analyzing use cases
+- Designing solutions
 
 ## Education
 
