@@ -50,6 +50,6 @@ __Python developer @ Querity s.r.o.__
 - Data wrangling
 - Data visualisation
 
-### Interests
+## Interests
 
 Hiking, guitar, skateboarding, computer games, science-fiction
