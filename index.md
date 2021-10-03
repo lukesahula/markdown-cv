@@ -39,7 +39,7 @@ __React developer @ Berry Cloud__
 - UI design
 
 `2019-2021`
-__React developer @ Self-employed__
+__React developer @ Sentica s.r.o.__
 
 - Data wrangling
 - Data visualisation
