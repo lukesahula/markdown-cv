@@ -7,7 +7,7 @@ Frontend Developer, UX Designer
 
 ## Currently
 
-Developer to Designer
+Making the switch from being a developer to being a designer
 
 ### Specialized in
 
@@ -18,38 +18,35 @@ Frontend engineering, UI design, coffee drinking
 `2015-2018`
 __Faculty of Electrical Engineering, Czech Technical University in Prague__
 
+- "Software engineering and technologies"
+
 
 ## Occupation
 
 `2016-2017`
-__Querity s.r.o.__
+__Python developer @ Querity s.r.o.__
 
-- Python developer
 - Data wrangling
 - Data visualisation
 
 `2017-2019`
-__Berry Cloud__
+__React developer @ Berry Cloud__
 
-- React developer
+- Frontend development
 - UI design
 
 `2019-2021`
-__Self employed__
+__React developer @ Self-employed__
 
-- React developer
 - Data wrangling
 - Data visualisation
 - UI & UX design
 
 `2021-now`
-__Sentica s.r.o.__
+__UI & UX designer, coowner @ Sentica s.r.o.__
 
-- UI & UX designer
+- UX & UI design, research
 
+### Interests
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Hiking, guitar, skateboarding, computer games, science-fiction
