@@ -14,6 +14,7 @@ __Working as a UX designer at Sentica:__
 - Making prototypes
 - Analyzing use cases
 - Designing solutions
+- Organizing usability testing
 
 ## Education
 
