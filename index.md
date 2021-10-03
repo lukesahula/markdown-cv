@@ -7,33 +7,16 @@ Frontend Developer, UX Designer
 
 ## Currently
 
-Standing on the shoulders of giants
+Developer to Designer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Frontend engineering, UI design, coffee drinking
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2015-2018`
+__Faculty of Electrical Engineering, Czech Technical University__
 
 
 ## Awards
