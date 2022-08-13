@@ -7,7 +7,7 @@ UX Designer, Frontend developer
 
 ## Currently
 
-__Working as a UX designer at Sentica:__
+__Working as a UX developer at Sentica:__
 
 - Gathering requirements
 - Writing user stories
@@ -15,21 +15,23 @@ __Working as a UX designer at Sentica:__
 - Analyzing use cases
 - Designing solutions
 - Organizing usability testing
+- React development
 
 ## Education
 
 `2015-2018`
 __Faculty of Electrical Engineering, Czech Technical University in Prague__
 
-- "Software engineering and technologies"
+- Software engineering and technologies
 
 
 ## Occupation
 
 `2021-now`
-__UI & UX designer @ Sentica s.r.o.__
+__UI & UX developer @ Sentica s.r.o.__
 
 - UX & UI design, research
+- React development
 
 `2019-2021`
 __React developer @ Sentica s.r.o.__
@@ -52,4 +54,4 @@ __Python developer @ Querity s.r.o.__
 
 ## Interests
 
-Hiking, guitar, skateboarding, computer games, science-fiction
+Hiking, running, guitar, skateboarding, computer games, science-fiction
