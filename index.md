@@ -7,7 +7,7 @@ Frontend developer, UX designer
 
 ## Contact
 
-__[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)__
+__<span style="color:#6495ed">[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)</span>__
 
 ## Currently
 
