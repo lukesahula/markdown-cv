@@ -13,7 +13,7 @@ __[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)__
 
 __Working as a UX engineer at Sentica:__
 
-- Frontend development (TypeScript, React, Redux)
+- Frontend development (Application architecture design, React, Redux, TypeScript...)
 - UX design (gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...)
 
 ## Occupation
