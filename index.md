@@ -50,7 +50,7 @@ __Volunteering as a mentor at [Czechitas Digital academy](https://www.czechitas.
 
 __Development and maintenance of [OLDstars theatre](https://www.oldstars.cz/) website__
 
-__[LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)__
+__[My Linkedin](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)__
 
 ## Interests
 
