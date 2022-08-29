@@ -4,7 +4,9 @@ title: Lukáš Sahula's CV
 ---
 # Bc. Lukáš Sahula
 Frontend developer, UX designer
+
 [lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)
+
 [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)
 
 ## Currently
