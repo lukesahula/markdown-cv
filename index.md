@@ -46,9 +46,9 @@ __Faculty of Electrical Engineering, Czech Technical University in Prague__
 
 ## Other
 
-__Volunteering as a mentor at [Czechitas Digital academy](https://www.czechitas.cz/en/courses)__
+__[Volunteering as a mentor at Czechitas Digital academy](https://www.czechitas.cz/en/courses)__
 
-__Development and maintenance of [OLDstars theatre](https://www.oldstars.cz/) website__
+__[Development and maintenance of OLDstars theatre](https://www.oldstars.cz/) website__
 
 __[My LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)__
 
