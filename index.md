@@ -15,7 +15,7 @@ __Working as a UX engineer at Sentica:__
 ## Occupation
 
 `2019-now`
-__UI & UX developer @ Sentica s.r.o.__
+__UX engineer @ Sentica s.r.o.__
 
 - Frontend development
 - Data visualisation
