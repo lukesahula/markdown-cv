@@ -5,6 +5,12 @@ title: Lukáš Sahula's CV
 # Bc. Lukáš Sahula
 Frontend developer, UX designer
 
+## Contact
+
+__[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)__
+
+__[LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)__
+
 ## Currently
 
 __Working as a UX engineer at Sentica:__
@@ -49,9 +55,3 @@ __Development and maintenance of [OLDstars theatre](https://www.oldstars.cz/) we
 ## Interests
 
 __Hiking, running, guitar, skateboarding, theatre, computer games, science-fiction__
-
-## Contact
-
-__[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)__
-
-__[LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)__
