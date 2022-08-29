@@ -3,13 +3,15 @@ layout: cv
 title: Lukáš Sahula's CV
 ---
 # Bc. Lukáš Sahula
-Frontend developer, UX designer, [LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)
+Frontend developer, UX designer
+[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)
 
 ## Currently
 
 __Working as a UX engineer at Sentica:__
 
-- Frontend development (Typescript, React, Redux, a little bit of Kotlin)
+- Frontend development (Typescript, React, Redux)
 - UX design (gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...)
 
 ## Occupation
