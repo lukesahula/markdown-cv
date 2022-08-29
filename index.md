@@ -3,42 +3,23 @@ layout: cv
 title: Lukáš Sahula's CV
 ---
 # Bc. Lukáš Sahula
-UX designer, Frontend developer
+Frontend developer, UX designer
 
 ## Currently
 
 __Working as a UX engineer at Sentica:__
 
-- Gathering requirements
-- Writing user stories
-- Making prototypes
-- Analyzing use cases
-- Designing solutions
-- Organizing usability testing
-- React development
-
-## Education
-
-`2015-2018`
-__Faculty of Electrical Engineering, Czech Technical University in Prague__
-
-- Software engineering and technologies
-
+- Frontend development (Typescript, React, Redux, a little bit of Kotlin)
+- UX design (gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...)
 
 ## Occupation
 
-`2021-now`
+`2019-now`
 __UI & UX developer @ Sentica s.r.o.__
 
-- UX & UI design, research
-- React development
-
-`2019-2021`
-__React developer @ Sentica s.r.o.__
-
-- Data wrangling
+- Frontend development
 - Data visualisation
-- UI & UX design
+- UX & UI design, research
 
 `2017-2019`
 __React developer @ Berry Cloud__
@@ -52,6 +33,17 @@ __Python developer @ Querity s.r.o.__
 - Data wrangling
 - Data visualisation
 
+## Education
+
+`2015-2018`
+__Faculty of Electrical Engineering, Czech Technical University in Prague__
+
+- Software engineering and technologies
+
+## Other
+- Volunteering as a mentor at [Czechitas Digital academy](https://www.czechitas.cz/en/courses)
+- Development and maintenance of [OLDstars theatre](https://www.oldstars.cz/) website
+
 ## Interests
 
-Hiking, running, guitar, skateboarding, computer games, science-fiction
+Hiking, running, guitar, skateboarding, theatre, computer games, science-fiction
