@@ -13,7 +13,7 @@ __<span style="color:#6495ed">[lukas.sahula@icloud.com](mailto:lukas.sahula@iclo
 
 __Working as a Web developer at Datamole:__
 
-- Frontend & backend development (Application architecture design, PoCs, unit testing, etc
+- Frontend & backend development (Application architecture design, PoCs, unit testing, etc...)
 - Typescript, React, Redux, Nest, Storybook
 - UI design
 
