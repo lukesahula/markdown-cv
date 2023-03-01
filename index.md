@@ -64,6 +64,7 @@ __Volunteering as a mentor at <span style="color:#6495ed">[Czechitas Digital aca
 __Development and maintenance of <span style="color:#6495ed">[OLDstars theatre website](https://www.oldstars.cz/)</span>__
 
 __<span style="color:#6495ed">[My LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)</span>__
+
 __<span style="color:#6495ed">[My Github](https://github.com/lukesahula)</span>__
 
 ## Interests
