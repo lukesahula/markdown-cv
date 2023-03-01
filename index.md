@@ -16,13 +16,6 @@ __Working as a Web developer at Datamole:__
 - Frontend & backend development (Application architecture design, making PoCs, unit testing... - Typescript, React, Redux, Nest, Storybook)
 - UI design
 
-## In the past
-
-__Working as a UX engineer at Sentica:__
-
-- Frontend development
-- UX design (gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...)
-
 ## Occupation
 
 `2022-now`
@@ -36,7 +29,7 @@ __UX engineer @ Sentica s.r.o.__
 
 - Frontend development
 - Data visualisation
-- UX & UI design, research
+- UX & UI design, research (gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...)
 
 `2017-2019`
 __React developer @ Berry Cloud__
