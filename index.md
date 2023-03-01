@@ -14,9 +14,9 @@ __<span style="color:#6495ed">[lukas.sahula@icloud.com](mailto:lukas.sahula@iclo
 __Working as a Web developer at Datamole:__
 
 - Frontend & backend development
-  - Application architecture design, PoCs, unit testing, etc...
-- Typescript, React, Redux, Nest, Storybook
+- Application architecture design, PoCs, unit testing, etc...
 - UI design
+- Typescript, React, Redux, Nest, Storybook
 
 ## Occupation
 
@@ -31,8 +31,8 @@ __UX engineer @ Sentica s.r.o.__
 
 - Frontend development
 - Data visualisation
-- UX & UI design, research
-  - Gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...
+- UX & UI design
+- Gathering requirements, writing user stories, creating mockups in Figma, usability testing...
 
 `2017-2019`
 __React developer @ Berry Cloud__
