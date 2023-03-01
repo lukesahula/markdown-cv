@@ -11,14 +11,27 @@ __<span style="color:#6495ed">[lukas.sahula@icloud.com](mailto:lukas.sahula@iclo
 
 ## Currently
 
+__Working as a Web developer at Datamole:__
+
+- Frontend & backend development (Application architecture design, making PoCs, unit testing... - Typescript, React, Redux, Storybook)
+- UI design on the fly
+
+## In the past
+
 __Working as a UX engineer at Sentica:__
 
-- Frontend development (Application architecture design, making PoCs, unit testing... - React, Redux, TypeScript)
+- Frontend development
 - UX design (gathering requirements, writing user stories, creating mockups in Excalidraw and Figma, usability testing...)
 
 ## Occupation
 
-`2019-now`
+`2022-now`
+__Web developer @ Datamole s.r.o.__
+
+- Frontend & backend development
+- UI design
+
+`2019-2022`
 __UX engineer @ Sentica s.r.o.__
 
 - Frontend development
