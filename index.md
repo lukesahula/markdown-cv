@@ -17,11 +17,16 @@ Web engineer
 
 **Working as a Web Game developer @ Czech Television:**
 
-- Frontend & backend development
+- Designing and developing web games and other interactive products for children
 - Typescript, React, Svelte, Go, PixiJS
-- Developing web games and other interactive products for children
 
 ## Occupation
+
+`2023-now`
+**Web Game developer @ Czech Television**
+
+- Frontend & backend development
+- UX design
 
 `2022-2023`
 **Web developer @ Datamole s.r.o.**
