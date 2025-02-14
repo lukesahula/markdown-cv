@@ -21,7 +21,7 @@ I am looking for a medior/senior role in a team of developers where I can grow b
 
 I bring a generalist skill set gained from working on multiple products from initial design iterations through release and maintenance. My strength lies in the front-of-the-frontend, with a strong attention to detail in translating UI design into implementation.
 
-## Skillset
+## Skill set
 
 **Technologies**
 
