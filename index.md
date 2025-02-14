@@ -11,7 +11,7 @@ Web engineer
 
 **<span style="color:#6495ed">[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)</span>**
 
-**<span style="color:#6495ed">[My LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-sahula-3932971b7/)</span>**
+**<span style="color:#6495ed">[My LinkedIn](https://www.linkedin.com/in/luke-sahula)</span>**
 
 ## Currently
 
