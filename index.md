@@ -27,13 +27,14 @@ Web engineer
 
 - Frontend & backend development
 - UX design
+- Application architecture design
 
 `2022-2023`
 **Web developer @ Datamole s.r.o.**
 
 - Frontend & backend development
 - UI design
-- Application architecture design, PoCs, unit testing, etc...
+- Application architecture design
 
 `2019-2022`
 **UX engineer @ Sentica s.r.o.**
@@ -41,7 +42,7 @@ Web engineer
 - Frontend development
 - Data visualisation
 - UX & UI design
-- Gathering requirements, writing user stories, creating mockups in Figma, usability testing...
+- Application architecture design
 
 `2017-2019`
 **React developer @ Berry Cloud**
