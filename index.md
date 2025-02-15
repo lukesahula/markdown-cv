@@ -17,7 +17,7 @@ Web engineer
 
 I am a software developer with 10 years of experience, having worked at multiple startup - including one I co-founded - as well as larger companies. While my primary focus has been frontend development, I have also worked on backend systems when needed. Additionally, I spent several years doing UX/UI design.
 
-I am looking for a medior/senior role in a team of developers where I can grow by collaborating with other engineers. I enjoy working on ethical products that are designed with a strong focus on user needs.
+After spending the past year and a half as the sole developer on the team, I’m eager to join a group of engineers where I can collaborate, learn, and grow. I enjoy working on ethical products that are designed with a strong focus on user needs.
 
 I bring a generalist skill set gained from working on multiple products from initial design iterations through release and maintenance. My strength lies in the front-of-the-frontend, with a strong attention to detail in translating UI design into implementation.
 
