@@ -21,11 +21,11 @@ After spending the past year and a half as the sole developer on the team, I’m
 
 I bring a generalist skill set gained from working on multiple products from initial design iterations through release and maintenance. My strength lies in the front-of-the-frontend, with a strong attention to detail in translating UI design into implementation.
 
-## Skill set
+## Skills
 
 **Technologies**
 
-- Typescript, React, Redux, Svelte, Next, Nest, Git, Storybook
+- Typescript, React, Redux, Svelte, Next, Nest, Git, Storybook, Figma
 
 **Practices**
 
