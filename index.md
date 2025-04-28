@@ -15,7 +15,7 @@ Web engineer
 
 ## Intro
 
-I am a software developer with 10 years of experience, having worked at multiple startup - including one I co-founded - as well as larger companies. While my primary focus has been frontend development, I have also worked on backend systems when needed. Additionally, I spent several years doing UX/UI design.
+I am a software developer with 10 years of experience, having worked at multiple startups - including one I co-founded - as well as larger companies. While my primary focus has been frontend development, I have also worked on backend systems when needed. Additionally, I spent several years doing UX/UI design.
 
 After spending the past year and a half as the sole developer on the team, I’m eager to join a group of engineers where I can collaborate, learn, and grow. I enjoy working on ethical products that are designed with a strong focus on user needs.
 
@@ -34,7 +34,7 @@ I bring a generalist skill set gained from working on multiple products from ini
 ## Occupation
 
 `2023-now`
-**Web Game developer @ Czech Television**
+**Web developer @ Czech Television**
 
 - Designing and developing web games and other interactive products for children
 - Frontend & backend development, UX design
