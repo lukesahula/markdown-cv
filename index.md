@@ -21,7 +21,7 @@ I am a software developer with over 10 years of experience gained across startup
 
 **Technologies**
 
-- Typescript, React, Redux, Svelte, Next, Nest, Git, Storybook, Figma
+- TypeScript, React, Redux, Svelte, Next, Nest, Git, Storybook, Figma, Python
 
 **Practices**
 
