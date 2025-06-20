@@ -15,17 +15,13 @@ Web developer
 
 ## Intro
 
-I am a software developer with over 10 years of experience gained across startups (including one I co-founded) and larger companies. While I specialize in frontend development, I'm also comfortable working on backend systems when needed. I have several years of experience in UX/UI design as well. I am motivated by working on meaningful, ethical products that prioritize user needs. Having worked on products from initial concept through to launch and long-term maintenance, I bring a broad and versatile skill set. My strongest area is the front of the frontend, where I focus on translating design into accessible, high-quality implementations with great attention to detail.
+I'm a software developer with over a decade of experience spanning startups (including one I co-founded) and larger companies. While I specialize in frontend development, I’m equally comfortable contributing to backend systems and bring several years of hands-on UX/UI design experience. I thrive on building meaningful, ethical products that prioritize real user needs. With a track record of delivering products from concept to launch and through long-term maintenance, I offer a versatile, end-to-end skill set that bridges design and engineering.
 
 ## Skills
 
 **Technologies**
 
-- TypeScript, React, Redux, Svelte, Next, Nest, Git, Storybook, Figma, Python
-
-**Practices**
-
-- Test driven development, Code review, Documentation writing, Atomic Git commits
+- TypeScript, React, NextJS, TailwindCSS, Redux (RTK + RTK-Query), Vite, Svelte, Git, Figma
 
 ## Occupation
 
@@ -46,17 +42,20 @@ I am a software developer with over 10 years of experience gained across startup
 
 - Frontend development
 - Data visualisation
-- Application architecture & UX/UI design
+- Application architecture
+- UX/UI design
 
 `2017-2019`
 **React developer @ Berry Cloud**
 
-- Frontend development & UI design
+- Frontend development
+- UI design
 
 `2016-2017`
 **Python developer @ Querity s.r.o.**
 
-- Data wrangling & Data visualisation
+- Data wrangling
+- Data visualisation
 
 ## Education
 
