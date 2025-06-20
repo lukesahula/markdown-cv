@@ -15,7 +15,7 @@ Web developer
 
 ## Intro
 
-I'm a software developer with over a decade of experience spanning startups (including one I co-founded) and larger companies. While I specialize in frontend development, I’m equally comfortable contributing to backend systems and bring several years of hands-on UX/UI design experience. I thrive on building meaningful, ethical products that prioritize real user needs. With a track record of delivering products from concept to launch and through long-term maintenance, I offer a versatile, end-to-end skill set that bridges design and engineering.
+I am a software developer with over a decade of experience spanning startups (including one I co-founded) and larger companies. While I specialize in frontend development, I’m equally comfortable contributing to backend systems and bring several years of hands-on UX/UI design experience. I thrive on building meaningful, ethical products that prioritize real user needs. With a track record of delivering products from concept to launch and through long-term maintenance, I offer a versatile, end-to-end skill set that bridges design and engineering.
 
 ## Skills
 
@@ -42,20 +42,17 @@ I'm a software developer with over a decade of experience spanning startups (inc
 
 - Frontend development
 - Data visualisation
-- Application architecture
-- UX/UI design
+- Application architecture & UX/UI design
 
 `2017-2019`
 **React developer @ Berry Cloud**
 
-- Frontend development
-- UI design
+- Frontend development & UI design
 
 `2016-2017`
 **Python developer @ Querity s.r.o.**
 
-- Data wrangling
-- Data visualisation
+- Data wrangling & Data visualisation
 
 ## Education
 
