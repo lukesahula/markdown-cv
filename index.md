@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Lukáš Sahula's CV
+title: Lukáš Sahula
 ---
 
 # Bc. Lukáš Sahula
