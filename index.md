@@ -1,17 +1,17 @@
 ---
 layout: cv
-title: Lukáš Sahula
+title: Lukáš Hrejsemnou
 ---
 
-# Bc. Lukáš Sahula
+# Lukáš Hrejsemnou
 
 Web developer
 
 ## Contact
 
-**<span style="color:#6495ed">[lukas.sahula@icloud.com](mailto:lukas.sahula@icloud.com)</span>**
+**<span style="color:#6495ed">[lukas.hrejsemnou@gmail.com](mailto:lukas.hrejsemnou@gmail.com)</span>**
 
-**<span style="color:#6495ed">[LinkedIn](https://www.linkedin.com/in/luke-sahula)</span>**
+**<span style="color:#6495ed">[LinkedIn](https://www.linkedin.com/in/lukas-hrejsemnou)</span>**
 
 ## Intro
 
