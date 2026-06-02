@@ -21,9 +21,17 @@ I am a software developer with over a decade of experience spanning startups (in
 
 **Technologies**
 
-- TypeScript, React, NextJS, TailwindCSS, Redux (RTK + RTK-Query), Vite, Svelte, Git, Figma
+- TypeScript, React, NextJS
+- TailwindCSS, MUI, Redux (RTK + RTK-Query), Zustand, TanStack, Vite
+- Git, Figma, Claude
 
 ## Occupation
+
+`2025-now`
+**Senior web developer @ Qubix Studio**
+
+- Developing a large scale crypto-currency platform _Freehold_
+- Frontend & backend development, agentic development
 
 `2023-2025`
 **Web developer @ Czech Television**
