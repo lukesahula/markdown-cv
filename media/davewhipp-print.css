@@ -54,10 +54,10 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 12pt;
-	line-height: 1.25em;
+	line-height: 1.3em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	padding-top: 48px;
+	padding-top: 40px;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -89,7 +89,7 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1em;
+	margin-bottom: 0.8em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -134,10 +134,22 @@ h1+p {
 	font-size: 110%;
 }
 
+#intro+p {
+	/*match list width so the intro right edge lines up with the bullets*/
+	width: 75%;
+}
+
+#contact {
+	/*folded contact line under the header*/
+	width: 75%;
+	font-size: 90%;
+	margin-top: 0.4em;
+}
+
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 1.5em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;

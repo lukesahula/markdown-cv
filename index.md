@@ -7,15 +7,8 @@ title: Lukáš Hrejsemnou
 
 Senior Frontend Engineer
 
-## Contact
-
-**<span style="color:#6495ed">[lukas.hrejsemnou@gmail.com](mailto:lukas.hrejsemnou@gmail.com)</span>**
-
-**<span style="color:#6495ed">[LinkedIn](https://www.linkedin.com/in/lukas-hrejsemnou)</span>**
-
-**<span style="color:#6495ed">[GitHub](https://github.com/hrejsemnou)</span>**
-
-**Prague, Czech Republic**
+**<span style="color:#6495ed">[lukas.hrejsemnou@gmail.com](mailto:lukas.hrejsemnou@gmail.com)</span>** · **<span style="color:#6495ed">[LinkedIn](https://www.linkedin.com/in/lukas-hrejsemnou)</span>** · **<span style="color:#6495ed">[GitHub](https://github.com/hrejsemnou)</span>** · Prague, Czech Republic
+{:#contact}
 
 ## Intro
 
