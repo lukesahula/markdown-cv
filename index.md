@@ -27,7 +27,11 @@ I am a software developer with over a decade of experience spanning startups (in
 
 - TypeScript, React, NextJS
 - TailwindCSS, MUI, Redux (RTK + RTK-Query), Zustand, TanStack
-- Vite, Git, GitHub Actions, Vercel, Claude
+- Vite, Git, GitHub Actions, Vercel
+
+**AI / Agentic dev**
+
+- Claude Code, MCP servers, Agentic workflows & orchestration, Prompt engineering
 
 **Backend**
 
@@ -41,15 +45,19 @@ I am a software developer with over a decade of experience spanning startups (in
 
 - Figma, Prototyping, Design systems
 
+**Soft skills**
+
+- Communication & stakeholder management, Cross-functional collaboration, Ownership & end-to-end delivery
+
 ## Occupation
 
 `2025-now`
 **Senior web developer @ Qubix Studio**
 
-- Building Freehold — a multi-chain digital-asset wallet and real-world-asset (RWA) tokenization platform by Realio — as part of a ~10-person team
+- Building Freehold — a multi-chain digital-asset wallet and real-world-asset (RWA) tokenization platform — as part of a ~10-person team
 - Developing new financial-flow features from scratch
 - Refactoring the frontend architecture, markedly reducing initial load times
-- Establishing agentic development workflows across a large monorepo, substantially accelerating delivery
+- Architecting agentic development workflows (Claude Code, MCP, custom subagents) across a large monorepo, substantially accelerating team delivery
 
 `2023-2025`
 **Web developer @ Czech Television**
