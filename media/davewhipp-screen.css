@@ -61,6 +61,12 @@ body {
 	margin-left: 1em;
 }
 
+#content {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 p {
 	position: relative;
 	left: 25%;
@@ -87,7 +93,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 66%;
 	margin-bottom: 0.8em;
 	margin-top: 0;
 }
@@ -135,19 +141,19 @@ h1+p {
 
 #intro+p {
 	/*match list width so the intro right edge lines up with the bullets*/
-	width: 75%;
+	width: 66%;
 }
 
 #contact {
 	/*folded contact line under the header*/
-	width: 75%;
+	width: 66%;
 	font-size: 90%;
 	margin-top: 0.4em;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #0f766e;
 	margin-top: 1.5em;
 	position: relative;
 	top: 1.4em;
@@ -177,7 +183,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: #0f766e;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }

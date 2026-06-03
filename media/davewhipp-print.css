@@ -67,7 +67,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.1em;
 	margin-right: 0;
-	width: 60%;
+	width: 55%;
 }
 
 code {
@@ -88,7 +88,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 66%;
 	margin-bottom: 0.8em;
 	/*margin-top: -0.5em;*/
 }
@@ -136,19 +136,19 @@ h1+p {
 
 #intro+p {
 	/*match list width so the intro right edge lines up with the bullets*/
-	width: 75%;
+	width: 66%;
 }
 
 #contact {
 	/*folded contact line under the header*/
-	width: 75%;
+	width: 66%;
 	font-size: 90%;
 	margin-top: 0.4em;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #0f766e;
 	margin-top: 1.5em;
 	position: relative;
 	top: 1.2em;
