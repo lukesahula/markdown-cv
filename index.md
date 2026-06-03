@@ -45,7 +45,7 @@ I am a software developer with over a decade of experience spanning startups (in
 `2025-now`
 **Senior web developer @ Qubix Studio**
 
-- Building Freehold — a multi-chain digital-asset wallet and real-world-asset (RWA) tokenization platform — as part of a ~10-person team
+- Building a multi-chain digital-asset wallet and real-world-asset (RWA) tokenization platform as part of a ~10-person team
 - Developing new financial-flow features from scratch
 - Refactoring the frontend architecture, markedly reducing initial load times
 - Architecting agentic development workflows (Claude Code, MCP, custom subagents) across a large monorepo, substantially accelerating team delivery
