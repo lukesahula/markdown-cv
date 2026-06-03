@@ -5,13 +5,17 @@ title: Lukáš Hrejsemnou
 
 # Lukáš Hrejsemnou
 
-Web developer
+Senior Frontend Engineer
 
 ## Contact
 
 **<span style="color:#6495ed">[lukas.hrejsemnou@gmail.com](mailto:lukas.hrejsemnou@gmail.com)</span>**
 
 **<span style="color:#6495ed">[LinkedIn](https://www.linkedin.com/in/lukas-hrejsemnou)</span>**
+
+**<span style="color:#6495ed">[GitHub](https://github.com/hrejsemnou)</span>**
+
+**Prague, Czech Republic**
 
 ## Intro
 
@@ -22,49 +26,65 @@ I am a software developer with over a decade of experience spanning startups (in
 **Technologies**
 
 - TypeScript, React, NextJS
-- TailwindCSS, MUI, Redux (RTK + RTK-Query), Zustand, TanStack, Vite
-- Git, Figma, Claude
+- TailwindCSS, MUI, Redux (RTK + RTK-Query), Zustand, TanStack
+- Vite, Git, GitHub Actions, Vercel, Claude
+
+**Backend**
+
+- Node.js, Python, PostgreSQL, Supabase, REST, GraphQL
+
+**Testing**
+
+- Jest, Testing Library, Playwright, Storybook
+
+**Design/UX**
+
+- Figma, Prototyping, Design systems
 
 ## Occupation
 
 `2025-now`
 **Senior web developer @ Qubix Studio**
 
-- Developing a large scale crypto-currency platform _Freehold_
-- Frontend & backend development, agentic development
+- Building Freehold — a multi-chain digital-asset wallet and real-world-asset (RWA) tokenization platform by Realio — as part of a ~10-person team
+- Developing new financial-flow features from scratch
+- Refactoring the frontend architecture, markedly reducing initial load times
+- Establishing agentic development workflows across a large monorepo, substantially accelerating delivery
 
 `2023-2025`
 **Web developer @ Czech Television**
 
-- Designing and developing web games and other interactive products for children
-- Frontend & backend development, UX design
+- Designed and developed web games and interactive products for children, including the AZ-kvíz game with hundreds of daily players
+- Delivered two large Christmas campaign projects reaching 200k+ visits
+- Handled frontend & backend development and UX design
 
 `2022-2023`
 **Web developer @ Datamole s.r.o.**
 
-- Frontend & backend development
-- UI & Application architecture design
+- Worked on a range of smaller projects, setting them up from scratch
+- Handled frontend & backend development, application architecture, and UI design
 
 `2019-2022`
-**UX engineer @ Sentica s.r.o.**
+**Co-founder & UX engineer @ Sentica s.r.o.**
 
-- Frontend development
-- Data visualisation
-- Application architecture & UX/UI design
+- Built a large web app used by two major Czech banks to monitor and update corporate processes
+- Delivered modules covering 10 business agendas, each with its own workflow
+- Led frontend development, data visualisation, application architecture, and UX/UI design
 
 `2017-2019`
 **React developer @ Berry Cloud**
 
-- Frontend development & UI design
+- Developed a healthcare application for a large US client
+- Handled frontend development & UI design
 
 `2016-2017`
 **Python developer @ Querity s.r.o.**
 
-- Data wrangling & Data visualisation
+- Data wrangling & data visualisation
 
 ## Education
 
 `2015-2018`
 **Faculty of Electrical Engineering, Czech Technical University in Prague**
 
-- Software engineering and technologies
+- Bc. in Software engineering and technologies
