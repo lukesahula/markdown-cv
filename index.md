@@ -12,35 +12,33 @@ Senior Frontend Engineer
 
 ## Intro
 
-I am a software developer with over a decade of experience spanning startups (including one I co-founded) and larger companies. While I specialize in frontend development, I’m equally comfortable contributing to backend systems and bring several years of hands-on UX/UI design experience. I thrive on building meaningful, ethical products that prioritize real user needs. With a track record of delivering products from concept to launch and through long-term maintenance, I offer a versatile, end-to-end skill set that bridges design and engineering.
+I am a software developer with over a decade of experience spanning startups (including one I co-founded) and larger companies. While I specialize in frontend development, I’m equally comfortable contributing to backend systems and bring several years of practical UX/UI design experience. I thrive on building meaningful, ethical products that prioritize real user needs. With a track record of delivering products from concept to launch and through long-term maintenance, I offer a versatile, end-to-end skill set that bridges design and engineering.
 
 ## Skills
 
-**Technologies**
+**Frontend**
 
-- TypeScript, React, NextJS
-- TailwindCSS, MUI, Redux (RTK + RTK-Query), Zustand, TanStack
-- Vite, Git, GitHub Actions, Vercel
+- Shipped production React & Next.js apps in TypeScript across fintech, media, and healthcare products; handle complex state and data with Redux Toolkit, RTK Query, Zustand, and TanStack; build UIs in TailwindCSS and MUI; ship via Vite, GitHub Actions, and Vercel.
 
 **AI / Agentic dev**
 
-- Claude Code, MCP servers, Agentic workflows & orchestration, Prompt engineering
+- Work AI-first with agentic tooling - Claude Code, MCP integrations, custom subagents, and prompt engineering - building multi-step automation into everyday development workflows.
 
 **Backend**
 
-- Node.js, Python, PostgreSQL, Supabase, REST, GraphQL
+- Also comfortable on the backend, working with Node.js and Python, PostgreSQL and Supabase, and REST and GraphQL APIs.
 
 **Testing**
 
-- Jest, Testing Library, Playwright, Storybook
+- Unit and integration tests with Jest and Testing Library, end-to-end coverage with Playwright, and component development & documentation in Storybook.
 
 **Design/UX**
 
-- Figma, Prototyping, Design systems
+- Hands-on UX/UI — user flows, wireframing, and prototyping in Figma, plus building and maintaining design systems.
 
 **Soft skills**
 
-- Communication & stakeholder management, Cross-functional collaboration, Ownership & end-to-end delivery
+- Communicate clearly with non-technical stakeholders, collaborate across design, product, and engineering, and take ownership from kickoff through delivery.
 
 ## Occupation
 
